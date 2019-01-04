@@ -29,7 +29,8 @@ Each message is written to a file named UID.json, where UID is a numeric ID asso
   "subject": "United States Postal Service ticket #38398",
   "unsubscribe": null,
   "payload": "<html><body></body></html>"
-}```
+}
+```
 
 The payload is text/plain if available, falling back to text/html.
 
