@@ -1,0 +1,4 @@
+.mypy_cache/
+
+config.json
+saved/
